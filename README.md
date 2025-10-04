@@ -1,2 +1,2 @@
 # MERN_Project
-Learning the basics
+Creating a note taking app
